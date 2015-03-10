@@ -1,0 +1,8 @@
+name: Info
+main: me.MorcCrafak.Info.main
+version: 1.0
+description: >
+             Essentials Replica.
+commands:
+  info:
+    description: Sets walk speed!
